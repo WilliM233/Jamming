@@ -1,4 +1,5 @@
 import React, { useCallback } from 'react';
+import './css/Playlist.css';
 import TrackList from './Tracklist';
 
 function Playlist(props) {
